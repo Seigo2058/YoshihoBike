@@ -1,0 +1,448 @@
+.desktop {
+    background-color: #ebebeb;
+    display: grid;
+    justify-items: center;
+    align-items: start;
+    width: 100vw;
+}
+
+.desktop .div {
+    background-color: #ebebeb;
+    width: 1440px;
+    height: 4822px;
+    position: relative;
+}
+
+.desktop .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 843px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/rectangle-2.png);
+    background-size: 100% 100%;
+}
+
+.desktop .overlap-group {
+    position: absolute;
+    width: 1370px;
+    height: 843px;
+    top: 0;
+    left: 0;
+}
+
+.desktop .rectangle {
+    position: absolute;
+    width: 301px;
+    height: 843px;
+    top: 0;
+    left: 0;
+    background-color: #191919bf;
+    filter: blur(15px);
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    width: 196px;
+    top: 501px;
+    left: 70px;
+    font-family: "Merriweather-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    width: 485px;
+    top: 340px;
+    left: 68px;
+    font-family: "Merriweather-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .p {
+    position: absolute;
+    width: 1300px;
+    top: 712px;
+    left: 70px;
+    font-family: "Merriweather-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+}
+
+.desktop .text-wrapper-3 {
+    position: absolute;
+    width: 404px;
+    top: 400px;
+    left: 1148px;
+    transform: rotate(90deg);
+    font-family: "Merriweather-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 733px;
+    top: 2011px;
+    left: 0;
+}
+
+.desktop .rectangle-2 {
+    position: absolute;
+    width: 1440px;
+    height: 627px;
+    top: 106px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.desktop .text-wrapper-4 {
+    position: absolute;
+    width: 958px;
+    top: 0;
+    left: 70px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .element {
+    position: absolute;
+    width: 700px;
+    height: 428px;
+    top: 206px;
+    left: 370px;
+    aspect-ratio: 1.64;
+    object-fit: cover;
+}
+
+.desktop .arrow {
+    left: 1156px;
+    position: absolute;
+    width: 42px;
+    height: 29px;
+    top: 2830px;
+}
+
+.desktop .img {
+    left: 240px;
+    position: absolute;
+    width: 42px;
+    height: 29px;
+    top: 2830px;
+}
+
+.desktop .overlap-group-2 {
+    position: absolute;
+    width: 1440px;
+    height: 792px;
+    top: 1031px;
+    left: 0;
+}
+
+.desktop .image {
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    top: 92px;
+    left: 0;
+    aspect-ratio: 2.06;
+    object-fit: cover;
+}
+
+.desktop .subtract {
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    top: 92px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .rectangle-3 {
+    position: absolute;
+    width: 421px;
+    height: 201px;
+    top: 103px;
+    left: 543px;
+    background-color: #2d2d2dde;
+    filter: blur(2.5px);
+}
+
+.desktop .text-wrapper-5 {
+    position: absolute;
+    top: 188px;
+    left: 555px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+    position: absolute;
+    width: 359px;
+    top: 259px;
+    left: 555px;
+    font-family: "Noto Sans JP-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.desktop .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 70px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .overlap-3 {
+    position: absolute;
+    width: 802px;
+    height: 60px;
+    top: 2813px;
+    left: 319px;
+}
+
+.desktop .rectangle-4 {
+    position: absolute;
+    width: 802px;
+    height: 5px;
+    top: 29px;
+    left: 0;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+.desktop .rectangle-5 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 0;
+    left: 371px;
+    background-color: #282630;
+    border-radius: 5px;
+}
+
+.desktop .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 950px;
+    top: 3872px;
+    left: 0;
+}
+
+.desktop .rectangle-6 {
+    position: absolute;
+    width: 1440px;
+    height: 842px;
+    top: 108px;
+    left: 0;
+    background-color: #252630;
+}
+
+.desktop .frame {
+    display: flex;
+    flex-wrap: wrap;
+    width: 652px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0px 128px;
+    position: absolute;
+    top: 812px;
+    left: 394px;
+}
+
+.desktop .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-9 {
+    position: absolute;
+    top: 249px;
+    left: 70px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+    position: absolute;
+    top: 542px;
+    left: 70px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-11 {
+    position: absolute;
+    top: 886px;
+    left: 544px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .meteor-icons-xmark {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    top: 390px;
+    left: 92px;
+    aspect-ratio: 1;
+}
+
+.desktop .game-icons-aero-bike {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    top: 0;
+    left: 638px;
+    aspect-ratio: 1;
+}
+
+.desktop .overlap-5 {
+    position: absolute;
+    width: 684px;
+    height: 612px;
+    top: 3061px;
+    left: 70px;
+}
+
+.desktop .overlap-6 {
+    position: absolute;
+    width: 684px;
+    height: 612px;
+    top: 0;
+    left: 0;
+}
+
+.desktop .rectangle-7 {
+    position: absolute;
+    width: 379px;
+    height: 233px;
+    top: 105px;
+    left: 305px;
+    object-fit: cover;
+}
+
+.desktop .rectangle-8 {
+    position: absolute;
+    width: 289px;
+    height: 509px;
+    top: 103px;
+    left: 0;
+    object-fit: cover;
+}
+
+.desktop .text-wrapper-12 {
+    position: absolute;
+    width: 407px;
+    top: 0;
+    left: 0;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .rectangle-9 {
+    position: absolute;
+    width: 379px;
+    height: 253px;
+    top: 358px;
+    left: 305px;
+}
+
+.desktop .overlap-7 {
+    position: absolute;
+    width: 600px;
+    height: 506px;
+    top: 3166px;
+    left: 770px;
+}
+
+.desktop .text-wrapper-13 {
+    position: absolute;
+    top: 21px;
+    left: 44px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-14 {
+    position: absolute;
+    width: 556px;
+    top: 125px;
+    left: 44px;
+    font-family: "Merriweather-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.desktop .rectangle-10 {
+    position: absolute;
+    width: 600px;
+    height: 506px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
